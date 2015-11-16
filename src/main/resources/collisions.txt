@@ -1,0 +1,68 @@
+# x y width height
+
+# left edge
+358 0 1 702
+
+# reactor - walls
+2229 6 207 374
+
+# cryo chamber - walls
+6130 0 120 420
+7947 4 237 342
+
+# cafeteria - lights
+8384 190 319 0
+8744 189 319 0
+9102 187 319 0
+
+# cafeteria - shelves
+9384 415 73 0
+9653 183 209 0
+
+# cafeteria - tables
+8418 588 291 104
+8958 535 217 0
+9359 587 297 97
+9789 527 221 0
+10208 587 275 96
+
+# cafeteria - croissant table
+10584 478 135 0
+10582 507 265 0
+10585 430 130 0
+
+# cafeteria -> armory platforms
+10731 296 130 0
+10923 296 130 0
+11120 273 130 0
+11395 286 237 0
+
+#cafeteria -> armory door
+11427 293 138 109
+11359 9 320 64
+
+# armory - platforms
+12134 361 222 0
+12601 516 81 0
+12749 408 176 0
+13200 365 76 0
+13567 367 80 0
+
+# armory - weapon container
+13955 528 180 192
+13955 0 180 428
+
+# left corridor boxes
+5391 541 93 130
+4815 538 93 133
+
+# left corridor platforms
+5230 457 74 0
+4650 478 79 0
+4403 355 221 0
+4207 263 221 0
+3499 527 176 0
+3317 397 176 0
+
+# right edge
+14135 0 1 720
